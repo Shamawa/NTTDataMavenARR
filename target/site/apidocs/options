@@ -6,20 +6,20 @@
 -source
 '1.7'
 -sourcepath
-'C:/dev/Workspace/Backend/nttdatatallermvn-arr/src/main/java;C:/dev/Workspace/Backend/nttdatatallermvn-arr/target/generated-sources/annotations'
+'C:/dev/Workspace/Backend/NTTDataMavenARR/src/main/java;C:/dev/Workspace/Backend/NTTDataMavenARR/target/generated-sources/annotations'
 -author
 -bottom
 'Copyright &#169; 2022. All rights reserved.'
 -charset
 'UTF-8'
 -d
-'C:/dev/Workspace/Backend/nttdatatallermvn-arr/target/site/apidocs'
+'C:/dev/Workspace/Backend/NTTDataMavenARR/target/site/apidocs'
 -docencoding
 'UTF-8'
 -doctitle
 'nttdatatallermvn-arr 0.0.1-SNAPSHOT API'
 -linkoffline
-'https://docs.oracle.com/javase/7/docs/api' 'C:/dev/Workspace/Backend/nttdatatallermvn-arr/target/javadoc-bundle-options'
+'https://docs.oracle.com/javase/7/docs/api' 'C:/dev/Workspace/Backend/NTTDataMavenARR/target/javadoc-bundle-options'
 -use
 -version
 -windowtitle

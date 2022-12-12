@@ -14,7 +14,7 @@ public class App {
 	 */
 	public static void main(String[] args) {
 		
-		// Imprime:  "En un lugar"
+		// Imprime:  "En un lugar"y
 		System.out.println(StringUtils.abbreviate("En un lugar de Java", 14));
 
 		// Imprime: "Hola Maven, Hola Maven"
